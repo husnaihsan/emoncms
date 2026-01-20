@@ -1,4 +1,4 @@
-# Repo: https://github.com/JXHor/emoncms
+# Repo: https://github.com/husnaihsan/emoncms.git
 
 FROM php:8.2-apache
 
